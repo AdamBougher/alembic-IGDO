@@ -14,9 +14,9 @@ The organization aims to provide safe and immersive environment for students to 
 {% include figure.html image="https://cdn-images-1.medium.com/max/2600/1*jMDG7pTIaVeP5bQnE1RuXg.png?width=700&auto=webp&quality=80&disable=upscale" caption="Stock photo" width="300" height="800" %}
 
 ## Fall 2024 Schedule
-This semester will focus on game development core concepts. For people intrested in the group project it will be taking a back seat untill futher notice, as we will be focusing on getting more people ready to work on it.  
+This semester will focus on game development core concepts. For people interested in the group project it will be taking a back seat until further notice, as we will be focusing on getting more people ready to work on it.  
   
-The below scheduel is subject to change, this should be used to get an idea of what our meeting will look like
+The below schedule is subject to change, this should be used to get an idea of what our meeting will look like
 
 <table>
     <thead>
@@ -60,7 +60,7 @@ The below scheduel is subject to change, this should be used to get an idea of w
       <tr>
         <td>10-10</td>
         <td>Start Independent Programming for Game Jam Project</td>
-        <td>Cant use 71North</td>
+        <td>Meeting will not be in 71 North. Information to come...</td>
       </tr>
       <tr>
         <td>10-17</td>
@@ -79,17 +79,17 @@ The below scheduel is subject to change, this should be used to get an idea of w
       </tr>
       <tr>
         <td>11-07</td>
-        <td>Work on Gam-Jam</td>
+        <td>Work on Game-Jam</td>
         <td></td>
       </tr>
       <tr>
         <td>11-14</td>
-        <td>Work on Gam-Jam</td>
+        <td>Work on Game-Jam</td>
         <td></td>
       </tr>
       <tr>
         <td>11-21</td>
-        <td>Work on Gam-Jam</td>
+        <td>Work on Game-Jam</td>
         <td></td>
       </tr>
       <tr>
@@ -112,7 +112,7 @@ The below scheduel is subject to change, this should be used to get an idea of w
 <br/>
 <br/>
 
-Please Checkout our [huskihub](https://huskiehub.niu.edu/feeds?type=club&type_id=35731&tab=home). it's how NIU knows we are a good club that hase people comming to our meetings!
+Please Checkout and Join IGDO's [huskihub](https://huskiehub.niu.edu/feeds?type=club&type_id=35731&tab=home) Page! It it how NIU knows we are an active and attended club (more engagement gets us more resources from NIU)
 
 <style>
   th, td {
