@@ -112,7 +112,7 @@ The below schedule is subject to change, this should be used to get an idea of w
 <br/>
 <br/>
 
-Please Checkout and Join IGDO's [huskihub](https://huskiehub.niu.edu/feeds?type=club&type_id=35731&tab=home) Page! It it how NIU knows we are an active and attended club (more engagement gets us more resources from NIU)
+Please Checkout and Join IGDO's <a href="https://huskiehub.niu.edu/feeds?type=club&type_id=35731&tab=home" target="_blank">huskihub Page</a>! It it how NIU knows we are an active and attended club (more engagement gets us more resources from NIU)
 
 <style>
   table{
